@@ -1,0 +1,32 @@
+h1{
+    font-family: arial;
+    font-style: italic;
+    font-weight: 100;
+}
+h4{
+    font-family: calibri;
+    font-style: normal;
+    font-weight: 200;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: aquamarine;
+}
+coluna{
+    display: inline;
+    padding: 10px;
+
+}
+img:hover{
+    border: radius 140px; ;
+}
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
